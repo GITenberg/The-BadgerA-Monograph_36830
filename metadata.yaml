@@ -1,0 +1,31 @@
+_repo: The-BadgerA-Monograph_36830
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pease, Alfred E. (Alfred Edward), Sir
+    alias: Pease, A. E. (Alfred Edward), Sir
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '38499'
+    url: http://www.gutenberg.org/2009/agents/38499
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2011-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36830'
+  lccn: 04000598
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Badgers'
+- !lcc 'QL'
+title: 'The Badger: A Monograph'
+url: http://www.gutenberg.org/ebooks/36830
